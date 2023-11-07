@@ -1,5 +1,5 @@
 # Hi, I am Sushma! 👋
-Welcome to my portfolio! I am a passionate data scientist with expertise in AI, machine learning, and computer vision. I thrive on solving complex problems and turning data into actionable insights.
+Welcome to my portfolio! I am a passionate Data Scientist with expertise in AI, Machine Learning, and Computer Vision. I thrive on solving complex problems and turning data into actionable insights.
 
 I bring over 7+ years of hands-on expertise in crafting solutions for Computer Vision, Machine Vision, and Image Processing. My experience spans diverse sectors, including Medical, Education, Pharmaceutical, Cosmetic, Refrigerator, and Metal industries, among others.
 
@@ -16,17 +16,17 @@ I bring over 7+ years of hands-on expertise in crafting solutions for Computer V
 <!-- [X] (Include it after some posts in X) -->
 
 ## Languages and Tools
-<img src="https://github.com/sushmaMadam/logos/blob/main/cpp.png" width="40" />
-<img src="https://github.com/sushmaMadam/logos/blob/main/python.png" width="100" />
+<img src="https://github.com/sushmaMadam/logos/blob/main/cpp.png" width="30" />
+<img src="https://github.com/sushmaMadam/logos/blob/main/python.png" width="80" />
 <p float="left">
-  <img src="https://github.com/sushmaMadam/logos/blob/main/numpy.png" width="100" />
+  <img src="https://github.com/sushmaMadam/logos/blob/main/numpy.png" width="90" /> $~~$
   <img src="https://github.com/sushmaMadam/logos/blob/main/sklearn.png" width="80" /> $~~$
-  <img src="https://github.com/sushmaMadam/logos/blob/main/scipy1.png" width="80" /> $~~$
-  <img src="https://github.com/sushmaMadam/logos/blob/main/pandas.png" width="80" /> $~~$
+  <img src="https://github.com/sushmaMadam/logos/blob/main/scipy1.png" width="70" /> $~~$
+  <img src="https://github.com/sushmaMadam/logos/blob/main/pandas.png" width="80" />
 </p>
 <p float="left">
   <img src="https://github.com/sushmaMadam/logos/blob/main/keras.png" width="80" /> $~~$
   <img src="https://github.com/sushmaMadam/logos/blob/main/Pytorch.png" width="70" /> $~~$
-  <img src="https://github.com/sushmaMadam/logos/blob/main/tensrflow.png" width="120" /> $~~$
+  <img src="https://github.com/sushmaMadam/logos/blob/main/tensorflow.png" width="120" /> $~~$
   <img src="https://github.com/sushmaMadam/logos/blob/main/opencv.png" width="80" />
 </p>
