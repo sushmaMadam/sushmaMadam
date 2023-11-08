@@ -1,7 +1,8 @@
 # Hi, I am Sushma! 👋
 Welcome to my portfolio! I am a passionate Data Scientist with expertise in AI, Machine Learning, and Computer Vision. I thrive on solving complex problems and turning data into actionable insights.
 
-I bring over 7 years of hands-on expertise in crafting solutions for Computer Vision, Machine Vision, and Image Processing. My experience spans diverse sectors, including Medical, Education, Pharmaceutical, Cosmetic, Refrigerator, and Metal industries, among others.
+<!--I bring over 7 years of hands-on expertise in crafting solutions for Computer Vision, Machine Vision, and Image Processing. My experience spans diverse sectors, including Medical, Education, Pharmaceutical, Cosmetic, Refrigerator, and Metal industries, among others.-->
+With more than 7 years of hands-on expertise, I specialize in crafting solutions for Computer Vision, Machine Vision, and Image Processing. My extensive experience extends across a variety of sectors, encompassing Medical, Education, Pharmaceutical, Cosmetic, Refrigerator, and Metal industries, among others.
 
 ## My works
 #### [Data Science Portfolio](https://github.com/sushmaMadam/Data-Science-Portfolio)
