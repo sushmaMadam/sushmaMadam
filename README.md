@@ -3,14 +3,14 @@ Welcome to my portfolio! I am a passionate Data Scientist with expertise in AI, 
 
 I bring over 7 years of hands-on expertise in crafting solutions for Computer Vision, Machine Vision, and Image Processing. My experience spans diverse sectors, including Medical, Education, Pharmaceutical, Cosmetic, Refrigerator, and Metal industries, among others.
 
-## You can find my works here:
+## My works
 #### [Data Science Portfolio](https://github.com/sushmaMadam/Data-Science-Portfolio)
 
 #### [AIML Portfolio](https://github.com/sushmaMadam/AIML-Portfolio)
 
 #### [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJ1KiT3l87NlM0I8TuAXlXu79UVHZp6iRcEkeMSGnuDqeI_muQxNSne6dRG1zBh6PRUTtm-HE9ChJBVLb5e51WRUmKMx&user=HlXL20EAAAAJ)
 
-## Connect with me:
+## Connect with me
 #### [Linkedin](https://www.linkedin.com/in/sushma-madam/)
 
 <!-- [X] (Include it after some posts in X) -->
